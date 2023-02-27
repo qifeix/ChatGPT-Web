@@ -62,9 +62,8 @@ watch(
         </h2>
         <hr>
         <p>
-          此项目开源于
+          此页面来自于
           <a class="text-blue-600" href="https://github.com/Chanzhaoyu/chatgpt-web" target="_blank">Github</a>
-          如果你觉得此项目对你有帮助，请帮我点个 Star，谢谢！
         </p>
         <hr>
         <p>API方式：{{ config?.apiModel ?? '-' }}</p>
